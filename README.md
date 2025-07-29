@@ -33,18 +33,18 @@ I offer consulting and freelance development:
 ### [Tenshi-Backend](https://github.com/fabian7593/Tenshi-Backend)
 A modular and scalable REST API framework built in Node.js with TypeScript & Express.js.
 
-- 📦 Supports dynamic modules, middleware, hooks, and CRUD generation
-- 🛡 Includes access control, API Key & JWT protection, audit logs
-- ✅ Fully open-source and production-ready
+-  Supports dynamic modules, middleware, hooks, and CRUD generation
+-  Includes access control, API Key & JWT protection, audit logs
+-  Fully open-source and production-ready
 
 ---
 
 ### [Wizard Player](https://github.com/fabian7593/Wizard-Player)
 A complete Android video player library based on VLC. Built for phones, tablets, and Android TV.
 
-- 🎬 Multi-audio, subtitle support, UI customization
-- 🧩 Events, listeners, theme injection
-- ⚙️ Built with Kotlin & Jetpack Compose support
+-  Multi-audio, subtitle support, UI customization
+-  Events, listeners, theme injection
+-  Built with Kotlin & Jetpack Compose support
 
 ---
 
@@ -56,16 +56,16 @@ A Java library for taking and transforming pictures on Android.
 
 ## 🗂 Tech Stack
 
-- 🧠 **Languages & Scripting** – TypeScript, JavaScript, Java, Kotlin, C#, SQL
-- 🧰 **Backend Frameworks** – Node.js, Express.js, .NET Core, REST API development
-- 📱 **Mobile Development** – Android SDK, Jetpack Compose, VLC-based and exoplayer media libraries
-- 🖥️ **Frontend Tools** – Next.js, TailwindCSS
-- ☁️ **Cloud Platforms** – AWS (EC2, S3, IAM, Route53), Firebase, Render, Vercel
-- 🛠️ **DevOps & Tooling** – GitHub Actions, CI/CD, Nginx
-- 🛡️ **System & Infrastructure** – VPS & Dedicated servers, Linux (Ubuntu), DNS, IP & Firewall management
-- 🗃️ **Databases** – MySQL, PostgreSQL, MariaDB, SQL Server
-- 📐 **Software Design** – Clean Architecture, SOLID principles, modular systems, design patterns
-- 🧩 **Microservices & Modular Architecture** – service decoupling, API gateways, scalability
+-  **Languages & Scripting** – TypeScript, JavaScript, Java, Kotlin, C#, SQL
+-  **Backend Frameworks** – Node.js, Express.js, .NET Core, REST API development
+-  **Mobile Development** – Android SDK, Jetpack Compose, VLC-based and exoplayer media libraries
+-  **Frontend Tools** – Next.js, TailwindCSS
+-  **Cloud Platforms** – AWS (EC2, S3, IAM, Route53), Firebase, Render, Vercel
+-  **DevOps & Tooling** – GitHub Actions, CI/CD, Nginx
+-  **System & Infrastructure** – VPS & Dedicated servers, Linux (Ubuntu), DNS, IP & Firewall management
+-  **Databases** – MySQL, PostgreSQL, MariaDB, SQL Server
+-  **Software Design** – Clean Architecture, SOLID principles, modular systems, design patterns
+-  **Microservices & Modular Architecture** – service decoupling, API gateways, scalability
 
 ---
 
@@ -75,9 +75,9 @@ I’m constantly expanding my technical skillset to stay sharp and versatile acr
 
 Current focus areas include:
 
-- 🔐 **Cybersecurity** – authentication, data protection, secure API design
-- 🎨 **UI/UX Principles** – usability, accessibility, and intuitive user flow design
-- 📈 **Observability** – logs, metrics, and monitoring best practices for production systems
+-  **Cybersecurity** – authentication, data protection, secure API design
+-  **UI/UX Principles** – usability, accessibility, and intuitive user flow design
+-  **Observability** – logs, metrics, and monitoring best practices for production systems
 
 These areas directly support my work in building robust backend systems and scalable SaaS platforms.
 
