@@ -24,6 +24,7 @@ I offer consulting and freelance development:
 - Integrate into your existing team and codebase
 - Build full systems from scratch
 - Refactor, modularize, or improve performance
+- Set up CI/CD pipelines, server environments, and AWS-based infrastructure
 
 📬 Contact me at [fabianr7593@gmail.com](mailto:fabianr7593@gmail.com)
 
@@ -57,6 +58,24 @@ A Java library for taking and transforming pictures on Android.
 
 ---
 
+## 📚 Continuous Learning & Focus Areas
+
+I’m constantly expanding my technical skillset to stay sharp and versatile across modern development needs.
+
+Current focus areas include:
+
+- 🔐 **Cybersecurity** – authentication, data protection, secure API design
+- 🎨 **UI/UX Principles** – usability, accessibility, and intuitive user flow design
+- ☁️ **Cloud Computing** – AWS (IAM, S3, EC2, CloudWatch, Route53)
+- ⚙️ **DevOps & Automation** – CI/CD pipelines, GitHub Actions, Docker, system orchestration
+- 🧱 **Infrastructure & Server Management** – VPS, dedicated servers, IP/DNS/firewall configs, Ubuntu/Linux environments, Nginx
+- 🧩 **Microservices & Modular Architecture** – service decoupling, API gateways, scalability
+- 📈 **Observability** – logs, metrics, and monitoring best practices for production systems
+
+These areas directly support my work in building robust backend systems and scalable SaaS platforms.
+
+---
+
 ## 📈 GitHub Stats
 
 ![Arcane Coder 777's Stats](https://github-readme-stats.vercel.app/api?username=fabian7593&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
@@ -68,9 +87,9 @@ A Java library for taking and transforming pictures on Android.
 
 - **Languages**: TypeScript, JavaScript, Java, Kotlin, C#, SQL  
 - **Frameworks**: Node.js, .NET, Express, Jetpack Compose  
-- **Tools**: Docker, AWS, Postman  
+- **Tools**: Docker, AWS, Postman,  GitHub Actions, CI/CD, Nginx
 - **Databases**: MySQL, PostgreSQL, SQLServer, MariaDB  
-- **Other**: REST APIs, Android SDK, Git, Clean Architecture
+- **Other**: REST APIs, Android SDK, Clean Architecture, SOLID principles, Software Design Patterns
 
 ---
 
