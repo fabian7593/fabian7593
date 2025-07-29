@@ -94,7 +94,7 @@ These areas directly support my work in building robust backend systems and scal
 
 - 📧 Email: [fabianr7593@gmail.com](mailto:fabianr7593@gmail.com)  
 - 🌐 Portfolio: (coming soon)  
-- 🧵 Twitter: [@ArcaneCoder777](https://x.com/ArcaneCoder7) 
+- 🧵 Twitter: [@ArcaneCoder7](https://x.com/ArcaneCoder7) 
 
 ---
 
