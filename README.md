@@ -8,7 +8,7 @@ blending code and storytelling in the tools and libraries I build.
 
 - 🔧 Strong background in **backend systems**, **Node.js**, **TypeScript**, **.NET**, and **native Android (Java/Kotlin)**
 - 🚀 Creator of [Tenshi-Backend](https://github.com/fabian7593/Tenshi-Backend), [Wizard Player](https://github.com/fabian7593/Wizard-Player), and more
-- 🎯 Focused on clean code, modular architecture, and developer-friendly tools
+- 🎯 Focused on SOLID, modular architecture, and developer-friendly tools
 
 [![GitHub followers](https://img.shields.io/github/followers/fabian7593?style=social)](https://github.com/fabian7593)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Fabian%20Rosales-blue?logo=linkedin)](https://www.linkedin.com/in/frosales-softdev/)
