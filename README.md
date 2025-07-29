@@ -58,6 +58,20 @@ A Java library for taking and transforming pictures on Android.
 
 ---
 
+## 🗂 Tech Stack
+
+- 🧠 **Languages & Scripting** – TypeScript, JavaScript, Java, Kotlin, C#, SQL
+- 🧰 **Backend Frameworks** – Node.js, Express.js, .NET Core, REST API development
+- 📱 **Mobile Development** – Android SDK, Jetpack Compose, VLC-based and exoplayer media libraries
+- 🖥️ **Frontend Tools** – Next.js, TailwindCSS, UI/UX systems
+- ☁️ **Cloud Platforms** – AWS (EC2, S3, IAM, Route53), Firebase, Render, Vercel
+- 🛠️ **DevOps & Tooling** – GitHub Actions, CI/CD, Nginx
+- 🛡️ **System & Infrastructure** – VPS & Dedicated servers, Linux (Ubuntu), DNS, IP & Firewall management
+- 🗃️ **Databases** – MySQL, PostgreSQL, MariaDB, SQL Server
+- 📐 **Software Design** – Clean Architecture, SOLID principles, modular systems, design patterns
+
+---
+
 ## 📚 Continuous Learning & Focus Areas
 
 I’m constantly expanding my technical skillset to stay sharp and versatile across modern development needs.
@@ -80,16 +94,6 @@ These areas directly support my work in building robust backend systems and scal
 
 ![Arcane Coder 777's Stats](https://github-readme-stats.vercel.app/api?username=fabian7593&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
 ![Arcane Coder 777's Streak](https://github-readme-streak-stats.herokuapp.com/?user=fabian7593&theme=tokyonight&hide_border=false)
-
----
-
-## 🗂 Tech Stack
-
-- **Languages**: TypeScript, JavaScript, Java, Kotlin, C#, SQL  
-- **Frameworks**: Node.js, .NET, Express, Jetpack Compose  
-- **Tools**: Docker, AWS, Postman,  GitHub Actions, CI/CD, Nginx
-- **Databases**: MySQL, PostgreSQL, SQLServer, MariaDB  
-- **Other**: REST APIs, Android SDK, Clean Architecture, SOLID principles, Software Design Patterns
 
 ---
 
