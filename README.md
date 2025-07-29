@@ -64,8 +64,8 @@ A Java library for taking and transforming pictures on Android.
 -  **DevOps & Tooling** – GitHub Actions, CI/CD, Nginx
 -  **System & Infrastructure** – VPS & Dedicated servers, Linux (Ubuntu), DNS, IP & Firewall management
 -  **Databases** – MySQL, PostgreSQL, MariaDB, SQL Server
--  **Software Design** – Clean Architecture, SOLID principles, modular systems, design patterns
--  **Microservices & Modular Architecture** – service decoupling, API gateways, scalability
+-  **Software Design** – SOLID principles, modular architecture, design patterns.
+-  **Microservices** – service decoupling, API gateways, scalability
 
 ---
 
