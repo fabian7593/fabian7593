@@ -6,9 +6,7 @@ based in Costa Rica and passionate about building modern, scalable software.
 I go by **Arcane Coder 777** as my professional brand and creative identity,  
 blending code and storytelling in the tools and libraries I build.
 
-- 🔧 Strong background in **backend systems**, **Node.js**, **TypeScript**, **.NET**, and **native Android (Java/Kotlin)**
 - 🚀 Creator of [Tenshi-Backend](https://github.com/fabian7593/Tenshi-Backend), [Wizard Player](https://github.com/fabian7593/Wizard-Player), and more
-- 🎯 Focused on SOLID, modular architecture, and developer-friendly tools
 
 [![GitHub followers](https://img.shields.io/github/followers/fabian7593?style=social)](https://github.com/fabian7593)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Fabian%20Rosales-blue?logo=linkedin)](https://www.linkedin.com/in/frosales-softdev/)
@@ -27,8 +25,6 @@ I offer consulting and freelance development:
 - Set up CI/CD pipelines, server environments, and AWS-based infrastructure
 
 📬 Contact me at [fabianr7593@gmail.com](mailto:fabianr7593@gmail.com)
-
-> ⚠️ Please do not email for free support. For long-term help, code reviews, or dedicated support, I offer paid consulting.
 
 ---
 
@@ -63,12 +59,13 @@ A Java library for taking and transforming pictures on Android.
 - 🧠 **Languages & Scripting** – TypeScript, JavaScript, Java, Kotlin, C#, SQL
 - 🧰 **Backend Frameworks** – Node.js, Express.js, .NET Core, REST API development
 - 📱 **Mobile Development** – Android SDK, Jetpack Compose, VLC-based and exoplayer media libraries
-- 🖥️ **Frontend Tools** – Next.js, TailwindCSS, UI/UX systems
+- 🖥️ **Frontend Tools** – Next.js, TailwindCSS
 - ☁️ **Cloud Platforms** – AWS (EC2, S3, IAM, Route53), Firebase, Render, Vercel
 - 🛠️ **DevOps & Tooling** – GitHub Actions, CI/CD, Nginx
 - 🛡️ **System & Infrastructure** – VPS & Dedicated servers, Linux (Ubuntu), DNS, IP & Firewall management
 - 🗃️ **Databases** – MySQL, PostgreSQL, MariaDB, SQL Server
 - 📐 **Software Design** – Clean Architecture, SOLID principles, modular systems, design patterns
+- 🧩 **Microservices & Modular Architecture** – service decoupling, API gateways, scalability
 
 ---
 
@@ -80,10 +77,6 @@ Current focus areas include:
 
 - 🔐 **Cybersecurity** – authentication, data protection, secure API design
 - 🎨 **UI/UX Principles** – usability, accessibility, and intuitive user flow design
-- ☁️ **Cloud Computing** – AWS (IAM, S3, EC2, CloudWatch, Route53)
-- ⚙️ **DevOps & Automation** – CI/CD pipelines, GitHub Actions, Docker, system orchestration
-- 🧱 **Infrastructure & Server Management** – VPS, dedicated servers, IP/DNS/firewall configs, Ubuntu/Linux environments, Nginx
-- 🧩 **Microservices & Modular Architecture** – service decoupling, API gateways, scalability
 - 📈 **Observability** – logs, metrics, and monitoring best practices for production systems
 
 These areas directly support my work in building robust backend systems and scalable SaaS platforms.
@@ -94,15 +87,6 @@ These areas directly support my work in building robust backend systems and scal
 
 ![Arcane Coder 777's Stats](https://github-readme-stats.vercel.app/api?username=fabian7593&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
 ![Arcane Coder 777's Streak](https://github-readme-streak-stats.herokuapp.com/?user=fabian7593&theme=tokyonight&hide_border=false)
-
----
-
-## ❤️ Sponsor My Work
-
-If you find my open-source libraries helpful and use them professionally, consider sponsoring.  
-Your support helps me keep building tools for the community.
-
-📬 Contact me at [fabianr7593@gmail.com](mailto:fabianr7593@gmail.com)
 
 ---
 
